@@ -6,6 +6,7 @@ TagManager:
   tags:
   - IceCream
   - Customer
+  - Boost
   layers:
   - Default
   - TransparentFX
